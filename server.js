@@ -16,7 +16,9 @@ app.get('/index', (req, res) =>
 app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, 'public/notes.html'))
 );
-require("./routes/routes")(app);
+
+require("./routes/routes.js")(app);
+
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT}`)
 );
