@@ -1,7 +1,7 @@
 # Note-Taker
 
 Description:
-This application has created to make easier for the user to take notes and save it on JSON Database.
+This application has been created to make easy for the user to take notes and save it on JSON file.
 
 Technology used: JavaScript, HTML, CSS, JSON, Express.js, NPM
 
