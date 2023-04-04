@@ -25,4 +25,4 @@ Image of page:
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the video link. Or, download the sources files to use this as a template.
 
-Check my work - Click
+Check my work - Click https://stark-ridge-14660.herokuapp.com/notes
