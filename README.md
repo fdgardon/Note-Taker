@@ -21,6 +21,8 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 Image of page:
+![Screen Shot 2023-04-03 at 6 22 53 PM (2)](https://user-images.githubusercontent.com/119641606/229662532-106ed5e9-e8d3-4f64-87e0-641eda18f34c.png)
+![Screen Shot 2023-04-03 at 6 22 29 PM (2)](https://user-images.githubusercontent.com/119641606/229662547-6e539728-abae-49fa-b29e-86f953d17b0f.png)
 
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the video link. Or, download the sources files to use this as a template.
